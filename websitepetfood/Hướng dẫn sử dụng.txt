@@ -1,0 +1,18 @@
+﻿- tài khoản nhân viên: 
+                -username: root
+                -password: root
+- tài khoản khách hàng: 
+                -username: phuc
+                -password: phuc
+- file index.php trang đăng nhập đầu tiên 
+- file khachhang.php là trang chủ của khách hàng
+- file nhanvien.php là trang để nhân viên thêm sửa xóa sản phẩm
+- file themhanghoa.php, themhinhhanghoa.php, themloaihanghoa, xoahanghoa.php, xoahinhhanghoa.php, xoaloaihanghoa.php dùng để xử lý dữ liệu cho nhân viên trong trang nhanvien.php
+- file config.php dùng để kết nói với database quanlydathang
+- file form1.js là dùng cho trang index.php
+- file layanh.php dùng để lấy ảnh từ mysql về trang web khachhang.php
+- file login_staff.php là dùng để xử lý khi nhân viên đăng nhập tài khoản vào
+- file logincustomer.php  là dùng để xử lý dữ liệu khi khách hàng đăng nhập vào 
+- file logout.php  dùng để thoát đăng nhập
+- file registerkh.php là dùng để xử lý dữ liệu đăng ký của khách hàng
+- file suathongtinkhachhang.php dùng để sử lý cho trang themthongtinkhachhang.php
