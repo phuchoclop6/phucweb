@@ -1,0 +1,67 @@
+
+#bodynv {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+
+    .narbarnv {
+        overflow: hidden;
+        position: fixed;
+        width: 100%;
+        background-color: sienna;
+        margin-top: -47px;
+        
+    }
+
+        /*the a cuang narbarnb*/
+        .narbarnv a {
+            float: left;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .narbarnv-login {
+            overflow: hidden;
+            float:right;
+        }
+
+        .narbarnv-cart {
+            overflow: hidden;
+            float:right;
+        }
+        .narbarnv-login:hover {
+            background-color: pink;
+        }
+
+        .narbarnv a:hover {
+            background-color: pink;
+        }
+    .bodypagenv {
+        margin-top: 47px;
+        height: auto;
+        width: 100%;
+        /* padding-left: 2cm; */
+        background-color:green;
+        
+
+    }
+
+    .bodypagenv-center {
+        width: 150px;
+        height: 150px;
+    }
+
+    .footernv {
+        padding-top: 500px;
+        background-color: yellow;
+        height: auto;
+    }
+
+    .footernv-content {
+        background-color:blue;
+        padding: 15px 15px;
+    }
+
